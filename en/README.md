@@ -8,21 +8,21 @@
 
 This course is available in the following languages:
 
-- 🇷🇺 **Russian (Русский)** — [View Russian version →](ru/README.md)
+- 🇬🇧 **English (English)** — *This page*
+  - Complete course materials: 29 lectures, assignments, detailed syllabus
+  - All content in English
+
+- 🇷🇺 **Russian (Русский)** — [View Russian version →](../ru/README.md)
   - Complete course materials: 29 lectures, assignments, detailed syllabus
   - All content in Russian
-  
-- 🇬🇧 **English (English)** — [View English version →](en/README.md) — *This page*
-  - Complete course materials: 29 lectures ✅
-  - All lectures translated to English
 
 **Quick Navigation:**
-- [Russian Materials (ru/)](ru/)
-- [Russian Lectures (ru/lectures/)](ru/lectures/)
-- [Russian Index (ru/lectures/00_index.md)](ru/lectures/00_index.md)
-- [English Materials (en/)](en/)
-- [English Lectures (en/lectures/)](en/lectures/)
-- [English Index (en/lectures/00_index.md)](en/lectures/00_index.md)
+- [Main page (../README.md)](../README.md) — Root index
+- [Russian README (../ru/README.md)](../ru/README.md) — Russian version
+- [English Lectures (lectures/)](lectures/)
+- [English Lecture Index (lectures/00_index.md)](lectures/00_index.md)
+- [Russian Lectures (../ru/lectures/)](../ru/lectures/)
+- [Russian Lecture Index (../ru/lectures/00_index.md)](../ru/lectures/00_index.md)
 
 ---
 
@@ -49,6 +49,15 @@ All materials are marked with status badges indicating their review status:
 
 **Review Information:** Each reviewed material includes a reference to the reviewer with their academic status (e.g., "Reviewed by [Name], Ph.D. in Psychology" or "Reviewed by [Name], Professor of Psychology").
 
+**Example usage:**
+```markdown
+🤖 **AI-Generated** — requires review
+
+⚠️ **Partially Reviewed** — Reviewed by: [Name], Ph.D., sections 1-3
+
+✅ **Reviewed** — Reviewed by: [Name], Professor of Psychology
+```
+
 ---
 
 ## Course Overview
@@ -68,11 +77,12 @@ Upon completion of this course, students will be able to:
 
 ## Course Structure
 
-**📖 Jump to:** [Block I](#block-i-psychology-as-a-science-problem-statement) | [Block II](#block-ii-structure-and-levels-of-scientific-knowledge-in-psychology) | [Block III](#block-iii-methods-and-methodologies-from-experiment-to-cultural-analysis) | [Block IV](#block-iv-epistemological-and-logical-foundations-of-psychology) | [Block V](#block-v-paradigms-and-research-programs-in-psychology) | [Block VI](#block-vi-psychology-in-the-context-of-natural-and-social-sciences) | [Block VII](#block-vii-scientific-foundations-of-ethics-in-psychology)
+**📖 Jump to sections:** [Block I](#block-i-psychology-as-a-science-problem-statement) | [Block II](#block-ii-structure-and-levels-of-scientific-knowledge-in-psychology) | [Block III](#block-iii-methods-and-methodologies-from-experiment-to-cultural-analysis) | [Block IV](#block-iv-epistemological-and-logical-foundations-of-psychology) | [Block V](#block-v-paradigms-and-research-programs-in-psychology) | [Block VI](#block-vi-psychology-in-the-context-of-natural-and-social-sciences) | [Block VII](#block-vii-scientific-foundations-of-ethics-in-psychology)
 
 ---
 
 ### Block I: Psychology as a Science: Problem Statement {#block-i-psychology-as-a-science-problem-statement}
+
 **Topics:**
 - What makes a discipline scientific?
 - Subject and object of psychology: why psychology has problems with this
@@ -84,51 +94,124 @@ Upon completion of this course, students will be able to:
 - Imre Lakatos — *The Methodology of Scientific Research Programmes*
 - Steven Strogatz, *The Joy of x* — to help those who forgot how logic works
 
+**Lectures:**
+- ✅ [Lecture 1: Introduction to Psychology Methodology](lectures/01_introduction_to_methodology.md)
+- ✅ [Lecture 2: Criteria of Scientificity (Popper, Lakatos)](lectures/02_criteria_of_scientificity.md)
+- ✅ [Lecture 3: Subject and Object of Psychology](lectures/03_subject_and_object.md)
+- ✅ [Lecture 4: Theory, Empirics, Method — Scientific Triptych](lectures/04_theory_empirics_method.md)
+
+**Status:** 🤖 **AI-Generated** — requires review
+
+---
+
 ### Block II: Structure and Levels of Scientific Knowledge in Psychology {#block-ii-structure-and-levels-of-scientific-knowledge-in-psychology}
+
 **Topics:**
 - Theoretical and empirical levels
 - Phenomenon, hypothesis, model, theory
 - Psychological explanation: causal, functional, systemic
 - The role of experiment and observation: advantages and limitations
 
+**Lectures:**
+- ✅ [Lecture 5: Theoretical and Empirical Levels of Knowledge](lectures/05_theoretical_and_empirical_levels.md)
+- ✅ [Lecture 6: Phenomenon, Hypothesis, Model, Theory](lectures/06_phenomenon_hypothesis_model_theory.md)
+- ✅ [Lecture 7: Types of Psychological Explanations](lectures/07_types_of_psychological_explanations.md)
+- ✅ [Lecture 8: The Role of Experiment and Observation](lectures/08_experiment_and_observation.md)
+
+**Status:** 🤖 **AI-Generated** — requires review
+
+---
+
 ### Block III: Methods and Methodologies: From Experiment to Cultural Analysis {#block-iii-methods-and-methodologies-from-experiment-to-cultural-analysis}
+
 **Topics:**
 - Classification of methods: quantitative, qualitative, mixed
 - Correlation vs. causation — the battle of the century
 - Interpretive methods: hermeneutics lite™
 - Methodological pluralism: why it's needed and when it hinders
 
+**Lectures:**
+- ✅ [Lecture 9: Classification of Methods](lectures/09_classification_of_methods.md)
+- ✅ [Lecture 10: Correlation vs. Causation](lectures/10_correlation_vs_causation.md)
+- ✅ [Lecture 11: Interpretive Methods](lectures/11_interpretive_methods.md)
+- ✅ [Lecture 12: Methodological Pluralism](lectures/12_methodological_pluralism.md)
+
+**Status:** 🤖 **AI-Generated** — requires review
+
+---
+
 ### Block IV: Epistemological and Logical Foundations of Psychology {#block-iv-epistemological-and-logical-foundations-of-psychology}
+
 **Topics:**
 - What counts as knowledge in psychology?
 - Scientific explanation and the problem of interpretation
 - Theoretical integration in psychology: is it possible?
 - Multi-level analysis (neuro – cognitive – personality – culture)
 
+**Lectures:**
+- ✅ [Lecture 13: What Counts as Knowledge in Psychology?](lectures/13_what_counts_as_knowledge.md)
+- ✅ [Lecture 14: Scientific Explanation and the Problem of Interpretation](lectures/14_scientific_explanation.md)
+- ✅ [Lecture 15: Theoretical Integration in Psychology](lectures/15_theoretical_integration.md)
+- ✅ [Lecture 16: Multi-level Analysis](lectures/16_multi-level_analysis.md)
+- ✅ [Lecture 17: Case Study: Cognitive vs. Psychodynamic Interpretations](lectures/17_case_cognitive_vs_psychodynamic.md)
+
+**Status:** 🤖 **AI-Generated** — requires review
+
+---
+
 ### Block V: Paradigms and Research Programs in Psychology {#block-v-paradigms-and-research-programs-in-psychology}
+
 **Topics:**
 - Kuhn's paradigm and how psychology resists it
 - Lakatos's research programs
 - Competing approaches: psychoanalysis, behaviorism, cognitivism, cultural-historical school
 - Modern integration attempts: integrative psychotherapy, neurophenomenology
 
+**Lectures:**
+- ✅ [Lecture 18: Paradigms and Research Programs (Kuhn, Lakatos)](lectures/18_paradigms_and_research_programs.md)
+- ✅ [Lecture 19: Competing Approaches in Psychology](lectures/19_competing_approaches.md)
+
+**Status:** 🤖 **AI-Generated** — requires review
+
+---
+
 ### Block VI: Psychology in the Context of Natural and Social Sciences {#block-vi-psychology-in-the-context-of-natural-and-social-sciences}
+
 **Topics:**
 - Characteristics of the object (human) — does it prevent psychology from being a science?
 - Psychology vs. biology, sociology, philosophy
 - Interdisciplinarity: cognitive science, neuroscience, AI, linguistics
 - Replication crisis and its methodological consequences
-- **Discussion:** Can we do science about subjectivity?
+- **Additional:** Discussion: Can we do science about subjectivity?
+
+**Lectures:**
+- ✅ [Lecture 20: Psychology Among Other Sciences](lectures/20_psychology_among_other_sciences.md)
+- ✅ [Lecture 21: Replication Crisis and Its Consequences](lectures/21_replication_crisis.md)
+- ✅ [Lecture 22: Characteristics of Psychology's Object](lectures/22_characteristics_of_object.md)
+- ✅ [Lecture 23: The Role of Values in Science](lectures/23_role_of_values.md)
+- ✅ [Lecture 24: Interdisciplinarity](lectures/24_interdisciplinarity.md)
+- ✅ [Lecture 26: Discussion: Can We Do Science About Subjectivity?](lectures/26_science_of_subjectivity.md)
+
+**Status:** 🤖 **AI-Generated** — requires review
+
+---
 
 ### Block VII: Scientific Foundations of Ethics in Psychology {#block-vii-scientific-foundations-of-ethics-in-psychology}
+
 **Topics:**
 - The role of values in research practice
 - Scientific honesty, open science, preregistration, and publication bias
 - Limitations and responsibility of scientific psychology
 
+**Lectures:**
+- ✅ [Lecture 28: Scientific Honesty and Open Science](lectures/28_scientific_honesty.md)
+- ✅ [Lecture 29: Limitations and Responsibility of Psychology](lectures/29_limitations_and_responsibility.md)
+
+**Status:** 🤖 **AI-Generated** — requires review
+
 ---
 
-## Course Features
+## 🔍 Course Features
 
 - **Minimal mythology, maximum logic**
 - **Philosophy** — when relevant, not for decoration
@@ -138,7 +221,9 @@ Upon completion of this course, students will be able to:
 
 ---
 
-## Final Project
+## 🏁 Final: Methodology as the Foundation of Professional Thinking
+
+### Project
 
 **Assignment:** Each student writes a methodological justification of their own psychological interest or practice: what they study, how, why, and on what grounds this can be considered science.
 
@@ -146,32 +231,36 @@ Upon completion of this course, students will be able to:
 
 ## Materials Status
 
-**Current Status:** 🤖 **AI-Generated** — All materials require expert review.
-
-### English Materials (en/)
-
-English course materials are being created in the `/en/` directory.
+**Total Lectures:** 29  
+**Current Status:** 🤖 **AI-Generated** — all materials require expert review
 
 **Structure:**
-- [`/en/lectures/`](en/lectures/) — Lecture materials (29 lectures, complete ✅)
-  - [`/en/lectures/00_index.md`](en/lectures/00_index.md) — Complete lecture index
-- [`/en/README.md`](en/README.md) — Full English course index
-- [`/en/MATERIAL_STATUS.md`](en/MATERIAL_STATUS.md) — Material status system documentation
+- [`lectures/`](lectures/) — Lecture materials (29 lectures)
+  - [`lectures/00_index.md`](lectures/00_index.md) — Complete lecture index
+- [`assignments.md`](assignments.md) — Practical assignments (to be created)
+- [`detailed_syllabus.md`](detailed_syllabus.md) — Detailed course syllabus (to be created)
+- [`contents.md`](contents.md) — Course contents overview (to be created)
+- [`MATERIAL_STATUS.md`](MATERIAL_STATUS.md) — Material status system documentation
 
-**Status:** ✅ **Translation complete** — All 29 lectures translated to English.
+---
 
-### Russian Materials (ru/)
+## Review Process
 
-Complete course materials are located in the `/ru/` directory and are in Russian.
+To participate in the review process:
 
-**Structure:**
-- [`/ru/lectures/`](ru/lectures/) — Lecture materials (29 lectures, complete)
-  - [`/ru/lectures/00_index.md`](ru/lectures/00_index.md) — Complete lecture index
-- [`/ru/assignments.md`](ru/assignments.md) — Practical assignments
-- [`/ru/detailed_syllabus.md`](ru/detailed_syllabus.md) — Detailed course syllabus
-- [`/ru/contents.md`](ru/contents.md) — Course contents overview
-- [`/ru/README.md`](ru/README.md) — Full Russian course index
-- [`/ru/MATERIAL_STATUS.md`](ru/MATERIAL_STATUS.md) — Material status system documentation
+1. Select materials to review
+2. Familiarize yourself with the content
+3. Conduct proofreading and standardization
+4. Update material status according to the badge system
+5. Provide your information (name, academic status) in the review reference
+
+**Review reference format:**
+```markdown
+✅ **Reviewed** — Reviewed by: [Name], [Academic Degree], [Position/Title]
+
+Review date: [date]
+Notes: [if any]
+```
 
 ---
 
@@ -189,7 +278,13 @@ This course is licensed under the **Creative Commons Attribution-ShareAlike 4.0 
 - 📝 **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made
 - 🔄 **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license
 
-**Full license text:** [LICENSE](LICENSE)
+**Full license text:** [LICENSE](../LICENSE)
+
+**For Attribution:** When using this material, please include:
+- Course title: "Methodological Foundations of Psychology: Scientific Version"
+- Link to original repository (if applicable)
+- Language version used
+- Note about AI-generated content requiring review (if applicable)
 
 ### Usage Information
 
@@ -200,15 +295,9 @@ This course is licensed under the **Creative Commons Attribution-ShareAlike 4.0 
 **Last Updated:** November 23, 2025  
 **Review Status:** Pending expert review
 
-**For Attribution:** When using this material, please include:
-- Course title: "Methodological Foundations of Psychology: Scientific Version"
-- Link to original repository (if applicable)
-- Language version used
-- Note about AI-generated content requiring review (if applicable)
-
 ---
 
 ## Contact and Contributions
 
-For questions about course content, review status, or to contribute to the review process, please contact the course administrators.
+For questions about course content, review status, or to participate in the review process, please contact the course administrators.
 
